@@ -1,0 +1,27 @@
+{
+  "name": "redenvelope",
+  "version": "1.0.0",
+  "description": "An webapp for people to send red envelope to each other during new year",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtannady/HackAtSmith16.git"
+  },
+  "keywords": [
+    "red",
+    "envelope",
+    "nodejs"
+  ],
+  "author": "Budnampet Ramanudom, Jesslyn Tannady, Yisheng Cai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtannady/HackAtSmith16/issues"
+  },
+  "homepage": "https://github.com/jtannady/HackAtSmith16#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
